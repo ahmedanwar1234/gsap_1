@@ -1,5 +1,3 @@
-
-
 .content{
     display: flex;
     align-items: left;
@@ -9,20 +7,16 @@
     margin-left: 200px;
     margin-right: 50px;
     flex-direction: column;
-   
-
 }
 .content h1{
-font-weight: 100;  
-  font-size:50px;
+    font-weight: 700;
+    font-size: 50px;
     font-family: 'Bigilla';
     color: white;
-    
 }
 h1 div{
     overflow: hidden;
     margin-top: -40px;
-
 }
 .content p{
     font-size: 15px;
@@ -33,7 +27,7 @@ h1 div{
 }
 .content button{
     width: 150px;
-    padding:15px 15px;
+    padding: 15px 15px;
     margin-top: 20px;
     font-family: sans-serif;
     text-transform: capitalize;
